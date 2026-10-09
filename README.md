@@ -1,6 +1,6 @@
 ## Hi, I'm BoBo 👋
 
-I'm BoBo Ye, a student developer exploring Agents and Games, looking for a job!
+I'm BoBo Ye, a student developer exploring Agents and Games. **Open to opportunities!**
 
 - Homepage: [yehengwei.com](https://yehengwei.com)
 - Email: [yehw2024@shanghaitech.edu.cn](mailto:yehw2024@shanghaitech.edu.cn)
